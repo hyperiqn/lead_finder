@@ -11,7 +11,7 @@ This project is a web scraping tool that finds information about companies. It u
 
 ## Requirements
 - Python 3.x
-- Required libraries: requests, beautifulsoup4, openai
+- Required libraries: requests, beautifulsoup4, openai, streamlit
 
 ## Results
 
