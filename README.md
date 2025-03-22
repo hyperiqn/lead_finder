@@ -14,4 +14,9 @@ This project is a web scraping tool that finds information about companies. It u
 - Required libraries: requests, beautifulsoup4, openai, streamlit
 
 ## Results
+![Image1](images/ss1.png)
+![Image2](images/ss2.png)
+![Image3](images/ss3.png)
+![Image4](images/ss4.png)
+![Image5](images/ss5.png)
 
