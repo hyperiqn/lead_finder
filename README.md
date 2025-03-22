@@ -1,7 +1,7 @@
 # Company Information Scraper
 
 ## Description
-This project is a web scraping tool that finds information about companies. It uses DuckDuckGo search, extracts data from web pages, and leverages LinkedIn to gather additional details about companies. Its my internship handbook submission for Caprae Capital Partners.
+This project is a web scraping tool that finds information about companies. It uses DuckDuckGo search, extracts data from web pages, and leverages LinkedIn to gather additional details about companies. Its my pre-internship handbook submission for Caprae Capital Partners.
 
 ## Features
 - Enhances search queries using AI (OpenAI API)
